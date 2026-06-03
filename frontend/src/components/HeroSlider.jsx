@@ -3,32 +3,12 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 
 const slides = [
   {
-    image: "https://cdn.shopify.com/s/files/1/0787/3560/6019/files/Photo-78_a11e0245-1a0a-4ae7-a423-d2589fc12c93.jpg?v=1766744552",
-    alt: "Shampoing solide Yazed",
-  },
-  {
     image: "https://cdn.shopify.com/s/files/1/0787/3560/6019/files/Photo-81_b69ad2a3-95e0-4ea0-a234-77cdbc50442b.jpg?v=1764692343",
     alt: "Produits Yazed",
   },
   {
     image: "https://cdn.shopify.com/s/files/1/0787/3560/6019/files/Photo-82.jpg?v=1764692382",
     alt: "Accessoires Yazed",
-  },
-  {
-    image: "https://cdn.shopify.com/s/files/1/0787/3560/6019/files/Photo-15.jpg?v=1775137237",
-    alt: "Shampoing & Gel douche solide",
-  },
-  {
-    image: "https://cdn.shopify.com/s/files/1/0787/3560/6019/files/Photo-20.jpg?v=1775137237",
-    alt: "Yazed produits naturels",
-  },
-  {
-    image: "https://cdn.shopify.com/s/files/1/0787/3560/6019/files/Photo-34.jpg?v=1775137237",
-    alt: "Produits éco-responsables",
-  },
-  {
-    image: "https://cdn.shopify.com/s/files/1/0787/3560/6019/files/Photo-2.jpg?v=1775137237",
-    alt: "Yazed beauté durable",
   },
 ];
 
