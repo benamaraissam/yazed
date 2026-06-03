@@ -1,0 +1,17 @@
+# Added by FromScratch export
+node_modules/
+dist/
+build/
+.next/
+.turbo/
+.cache/
+coverage/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.mypy_cache/
+.pytest_cache/
+.env
+.env.local
+.DS_Store
