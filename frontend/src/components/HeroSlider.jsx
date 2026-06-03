@@ -3,12 +3,16 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 
 const slides = [
   {
-    image: "https://cdn.shopify.com/s/files/1/0787/3560/6019/files/Photo-81_b69ad2a3-95e0-4ea0-a234-77cdbc50442b.jpg?v=1764692343",
-    alt: "Produits Yazed",
+    image: "https://www.yazed.tn/cdn/shop/files/Photo-38_43a6124b-f272-4d0e-a3ce-0b0453a953c7.jpg?v=1766744418",
+    alt: "Rituel YAZED",
   },
   {
-    image: "https://cdn.shopify.com/s/files/1/0787/3560/6019/files/Photo-82.jpg?v=1764692382",
-    alt: "Accessoires Yazed",
+    image: "https://www.yazed.tn/cdn/shop/files/Photo-28_d9e9de9b-1335-4009-9643-3f8dfd363392.jpg?v=1763464173",
+    alt: "Soins marins",
+  },
+  {
+    image: "https://www.yazed.tn/cdn/shop/files/Photo-16_559314c5-5275-4bd8-871f-39e78ab115f7.jpg?v=1766744453",
+    alt: "Élégance naturelle",
   },
 ];
 
