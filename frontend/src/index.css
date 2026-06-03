@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cream: #F5EDE4;
+  --color-cream-dark: #EDE4DA;
+  --color-teal: #1A4D4D;
+  --color-teal-light: #2A6B6B;
+  --color-coral: #D9775C;
+  --color-coral-light: #E08A70;
+  --color-coral-dark: #C2654D;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Instrument Sans', system-ui, -apple-system, sans-serif;
+  background-color: #F5EDE4;
+  color: #1A4D4D;
+}
+
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  animation: marquee 20s linear infinite;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.5s ease-out forwards;
+}
